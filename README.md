@@ -5,7 +5,7 @@ Paper link: https://arxiv.org/pdf/2010.03725.pdf
 
 Author homepage: http://people.tamu.edu/~yunhe/
 
-Except the binary-labels-verion dicussed in the paper, we also release more fine-grained labels here:
+Except to the binary-labels-verion dicussed in the paper, we also release more fine-grained labels here:
 
 3: 3 expert annotators label this pair as paraphrase
 
