@@ -1,3 +1,4 @@
+Four-class labels	Binary labels	Entity	Definition1	Definition2
 3	1	predictive models	predictive models are involved with predicting a value based on other values in the dataset. the process of training a predictive model is known as supervised learning.	predict a value based on other values in the dataset. process of training a pred model is supervised learning.
 3	1	predictive models	predict a value based on other values in the dataset. process of training a pred model is supervised learning.	involved with predicting a value based on other values in the dataset; process of training this type of model is known as supervised learning
 3	1	predictive models	predicting one value (the target variable) using other values	predictive models are involved with predicting a value based on other values in the dataset.

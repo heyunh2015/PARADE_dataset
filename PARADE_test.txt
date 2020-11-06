@@ -1,3 +1,4 @@
+Four-class labels	Binary labels	Entity	Definition1	Definition2
 0	0	input data	must be both relevant and accurate to achieve optimal results	a list of all external data needed for the use case to be performed
 0	0	input data	-any data that the program receives while it is running -from file or user input -is typically &"un-meaningful&" until &"processed&" -data that is typed on a keyboard	the data values that are scanned by a program
 2	1	false negatives	vulnerability exists but wasn't detected by vulnerability scanner	a security incident that isn't detected or reported. as an example, occurs if an attack is active on the network but the nids does not raise an alert.

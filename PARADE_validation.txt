@@ -1,3 +1,4 @@
+Four-class labels	Binary labels	Entity	Definition1	Definition2
 1	0	time interval	time elapsed between clock readings	math symbol: Δt (delta t)
 1	0	time interval	how much time it takes for something to happen. symbol: Δt units: s (seconds)	elapsed time, or the time that has gone by
 1	0	intelligent agents	a knowledge based system that acts on a user's behalf to accomplish specific tasks	-special purpose knowledge based info system  -shopping bot
