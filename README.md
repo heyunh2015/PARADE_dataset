@@ -1,4 +1,4 @@
-# PARADE_dataset
+# PARADE: A New Dataset for Paraphrase Identification Requiring Computer Science Domain Knowledge
 code and dataset of EMNLP 2020 paper "PARADE: A New Dataset for Paraphrase Identification Requiring Computer Science Domain Knowledge"
 
 Paper link: https://arxiv.org/pdf/2010.03725.pdf
